@@ -1,0 +1,33 @@
+header {
+    background-color: rgb(187, 143, 245);
+    font-size: 12px;
+}
+
+body {
+    background-image: url("images/tiedye.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+img {
+    opacity: 0.3;
+}
+
+h1 {
+    color: white;
+    background:black;
+    padding: 15 px;
+}
+p {
+    color: black;
+    padding: 15px;
+    background-color: lightskyblue;
+
+}
+
+* {font-family: "Arial black" Gadjet, sans-serif;}
+
+article {
+    font-family: Georgia, serif;
+    backface-visibility: visible;
+}
