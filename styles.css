@@ -1,5 +1,5 @@
 header {
-    background-color: rgb(187, 143, 245);
+    background-color: rgb(187, 143, 245, 0.5);
     font-size: 12px;
 }
 
@@ -15,14 +15,15 @@ img {
 
 h1 {
     color: white;
-    background:black;
+    background:rgb(0, 0, 0, 0.5);
     padding: 15 px;
 }
+
 p {
     color: black;
     padding: 15px;
-    background-color: lightskyblue;
-
+    background-color: rgba(188, 245, 190, 0.45);
+    text-align: justify;
 }
 
 * {font-family: "Arial black" Gadjet, sans-serif;}
